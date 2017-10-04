@@ -2,7 +2,7 @@
 
 ## RNN Examples
 
-1. Digit Recognition with RNN
+### 1. Digit Recognition with RNN
 
 - Analyzing digits dataset in Scikit-learn (inputs: (8,8), outputs: (10,1))
 - Cross-validation results with nine models
