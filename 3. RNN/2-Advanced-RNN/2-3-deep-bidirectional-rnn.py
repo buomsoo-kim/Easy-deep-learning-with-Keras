@@ -5,7 +5,7 @@ from keras.datasets import reuters
 from keras.preprocessing.sequence import pad_sequences
 from keras.utils import to_categorical
 from keras.models import Sequential
-from keras.layers import Dense, LSTM, Activation
+from keras.layers import Dense, LSTM, Activation, Bidirectional
 from keras import optimizers
 from keras.wrappers.scikit_learn import KerasClassifier
 
@@ -29,9 +29,12 @@ y_data = to_categorical(y_data)
 y_train = y_data[:1395]
 y_test = y_data[1395:]
 
-def lstm():
+def deep_bidirectional_lstm():
     model = Sequential()
-    model.add(LSTM(50, input_shape = (49,1), return_sequences = False))
+    model.add(Bidirectional(LSTM(10, return_sequences = True), input_shape = (49,1)))
+    model.add(Bidirectional(LSTM(10, return_sequences = True)))
+    model.add(Bidirectional(LSTM(10, return_sequences = True)))
+    model.add(Bidirectional(LSTM(10, return_sequences = False)))
     model.add(Dense(46))
     model.add(Activation('softmax'))
     
@@ -40,7 +43,7 @@ def lstm():
     
     return model
 
-model = KerasClassifier(build_fn = lstm, epochs = 200, batch_size = 50, verbose = 1)
+model = KerasClassifier(build_fn = deep_bidirectional_lstm, epochs = 200, batch_size = 50, verbose = 1)
 model.fit(X_train, y_train)
 
 y_pred = model.predict(X_test)

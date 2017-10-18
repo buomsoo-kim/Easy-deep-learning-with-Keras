@@ -41,7 +41,7 @@ def stacked_lstm():
     
     return model
 
-model = KerasClassifier(build_fn = vanilla_rnn, epochs = 200, batch_size = 50, verbose = 1)
+model = KerasClassifier(build_fn = stacked_lstm, epochs = 200, batch_size = 50, verbose = 1)
 model.fit(X_train, y_train)
 
 y_pred = model.predict(X_test)
