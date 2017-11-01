@@ -1,6 +1,7 @@
 # Easy-deep-learning-with-Keras
 
 Materials in this repository is mostly for educational purposes
+Source code is written in Keras ver 2.0
 
 ## 1. Multilayer Perceptrons
 
