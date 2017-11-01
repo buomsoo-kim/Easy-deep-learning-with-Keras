@@ -1,6 +1,6 @@
 # Easy-deep-learning-with-Keras
 
-Materials in this repository is mostly for education purposes
+Materials in this repository is mostly for educational purposes
 
 ## 1. Multilayer Perceptrons
 
