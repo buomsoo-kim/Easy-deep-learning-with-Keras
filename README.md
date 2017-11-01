@@ -56,6 +56,11 @@ Source code is written in Keras ver 2.0
 
 ## 5. ETC
 
+- Using pretrained models
+- Image processing
+- Text processing
+- Attention mechanism
+
 ## 6. Examples
 
 ### 1) Digit Recognition with RNN
