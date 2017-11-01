@@ -31,6 +31,8 @@ Source code is written in Keras ver 2.0
 ### 3) Advanced CNN - 2
 - CNN for sentence classification
 
+### 4) Using pretrained models
+
 ## 3. Recurrent Neural Networks
 
 ### 1) Basic RNN
@@ -56,7 +58,6 @@ Source code is written in Keras ver 2.0
 
 ## 5. ETC
 
-- Using pretrained models
 - Image processing
 - Text processing
 - Attention mechanism
