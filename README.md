@@ -1,5 +1,8 @@
 # Easy-deep-learning-with-Keras
 
+Materials in this repository is mostly for educational purposes
+Source code is written in Keras ver 2.0
+
 ## 1. Multilayer Perceptrons
 
 ### 1) Basics of MLP
@@ -52,6 +55,11 @@
 - Convolutional autoencoder
 
 ## 5. ETC
+
+- Using pretrained models
+- Image processing
+- Text processing
+- Attention mechanism
 
 ## 6. Examples
 
