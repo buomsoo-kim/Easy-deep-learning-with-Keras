@@ -1,5 +1,7 @@
 # Easy-deep-learning-with-Keras
 
+Materials in this repository is mostly for education purposes
+
 ## 1. Multilayer Perceptrons
 
 ### 1) Basics of MLP
