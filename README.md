@@ -32,6 +32,7 @@ Source code is written in Keras ver 2.0
 - CNN for sentence classification
 
 ### 4) Using pretrained models
+- Importing models already trained on ImageNet dataset (keras.applications)
 
 ## 3. Recurrent Neural Networks
 
