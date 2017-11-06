@@ -53,9 +53,9 @@ Source code is written in Python 3.6+ & Keras ver 2.0+
 ## 4. Unsupervised Learning
 
 ### 1) Autoencoders
-- Simple autoencoder
-- Deep autoencoder
+- Autoencoder basics
 - Convolutional autoencoder
+- Dimensionality reduction using autoencoder
 
 ## 5. ETC
 
