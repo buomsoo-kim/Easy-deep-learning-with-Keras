@@ -50,6 +50,10 @@ Source code is written in Python 3.6+ & Keras ver 2.0+
 ### 3) Advanced RNN - 2
 - CNN-RNN
 
+### 4) Advanced RNN - 3
+- CuDNN LSTM
+- CuDNN GRU
+
 ## 4. Unsupervised Learning
 
 ### 1) Autoencoders
