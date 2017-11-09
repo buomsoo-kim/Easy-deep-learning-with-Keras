@@ -29,7 +29,7 @@ Source code is written in Python 3.6+ & Keras ver 2.0+
 - Getting deeper with CNNs
 
 ### 3) Advanced CNN - 2
-- CNN for sentence classification
+- CNN for sentence classification (imdb)
 
 ### 4) Using pretrained models
 - Importing models already trained on ImageNet dataset (keras.applications)
@@ -79,3 +79,7 @@ Source code is written in Python 3.6+ & Keras ver 2.0+
   - Simple GRU model
   - Stacked GRU model
   - Bidirectional GRU model
+
+### 2) Fashion item classification with MLP
+  - Simple MLP
+  - Autoencoder + MLP (dimensionality reduction)
