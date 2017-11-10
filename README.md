@@ -63,9 +63,15 @@ Source code is written in Python 3.6+ & Keras ver 2.0+
 
 ## 5. ETC
 
-- Image processing
-- Text processing
-- Attention mechanism
+### 1) Creating models
+- Sequential API
+- Model Functional API
+
+### 2) Image processing
+
+### 3) Text processing
+
+### 4) Attention mechanism
 
 ## 6. Examples
 
