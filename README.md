@@ -89,3 +89,6 @@ Source code is written in Python 3.6+ & Keras ver 2.0+
 ### 2) Fashion item classification with MLP
   - Simple MLP
   - Autoencoder + MLP (dimensionality reduction)
+  
+### 3) Question generation with seq2seq (using Quora dataset)
+  - Generating similar questions with seq2seq model
