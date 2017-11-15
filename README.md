@@ -91,4 +91,4 @@ Source code is written in Python 3.6+ & Keras ver 2.0+
   - Autoencoder + MLP (dimensionality reduction)
   
 ### 3) Question generation with seq2seq (using Quora dataset)
-  - Generation similar questions with seq2seq model
+  - Generating similar questions with seq2seq model
