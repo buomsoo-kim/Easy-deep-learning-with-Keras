@@ -37,6 +37,7 @@ Source code is written in Python 3.6+ & Keras ver 2.0+
 ## 3. Recurrent Neural Networks
 
 ### 1) Basic RNN
+- Understanding RNN architecture
 - Vanilla RNN (SimpleRNN)
 - Stacked vanilla RNN
 - LSTM
