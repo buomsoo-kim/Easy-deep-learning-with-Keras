@@ -71,7 +71,9 @@ Source code is written in Python 3.6+ & Keras ver 2.0+
 ### 2) Image processing
 
 ### 3) Text processing
-
+ - Text Preprocessing
+ - Word embeddings
+ 
 ### 4) Attention mechanism
 
 ## 6. Examples
