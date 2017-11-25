@@ -79,6 +79,7 @@ Source code is written in Python 3.6+ & Keras ver 2.0+
 ### 5) Keras callbacks
  - ModelCheckpoint
  - EarlyStopping
+ - ReduceLROnPlateau
 
 ## 6. Examples
 
