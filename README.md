@@ -76,6 +76,10 @@ Source code is written in Python 3.6+ & Keras ver 2.0+
  
 ### 4) Attention mechanism
 
+### 5) Keras callbacks
+ - ModelCheckpoint
+ - EarlyStopping
+
 ## 6. Examples
 
 ### 1) Digit Recognition with RNN
