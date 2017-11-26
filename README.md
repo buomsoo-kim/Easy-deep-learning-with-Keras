@@ -69,6 +69,7 @@ Source code is written in Python 3.6+ & Keras ver 2.0+
 - Model Functional API
 
 ### 2) Image processing
+ - Importing images
 
 ### 3) Text processing
  - Text Preprocessing
@@ -79,6 +80,7 @@ Source code is written in Python 3.6+ & Keras ver 2.0+
 ### 5) Keras callbacks
  - ModelCheckpoint
  - EarlyStopping
+ - ReduceLROnPlateau
 
 ## 6. Examples
 
