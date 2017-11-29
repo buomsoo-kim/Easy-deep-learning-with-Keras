@@ -83,7 +83,7 @@ Source code is written in Python 3.6+ & Keras ver 2.0+
  - ReduceLROnPlateau
  
 ### 6) Using GPUs
- - Fasten your training with CUDA & CuDNN
+ - Make your training process faster with CUDA & CuDNN
 
 ## 6. Examples
 
