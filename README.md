@@ -81,6 +81,9 @@ Source code is written in Python 3.6+ & Keras ver 2.0+
  - ModelCheckpoint
  - EarlyStopping
  - ReduceLROnPlateau
+ 
+### 6) Using GPUs
+ - Make your training process faster with CUDA & CuDNN
 
 ## 6. Examples
 
