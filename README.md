@@ -104,3 +104,6 @@ Source code is written in Python 3.6+ & Keras ver 2.0+
   
 ### 3) Question generation with seq2seq (using Quora dataset)
   - Generating similar questions with seq2seq model
+
+### 4) CNN for sentence classification
+  - CNN-static implementation of Kim 2014 paper
