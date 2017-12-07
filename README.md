@@ -1,7 +1,7 @@
 # Easy-deep-learning-with-Keras
 
-If you are unfamiliar with data preprocessing, first review NumPy & Pandas section of below repository materials
-Python for data analysis: https://github.com/buomsoo-kim/Python-for-data-analysis
+If you are unfamiliar with data preprocessing, first review **NumPy & Pandas** section of below repository materials
+```Python for data analysis: https://github.com/buomsoo-kim/Python-for-data-analysis```
 
 Materials in this repository are for educational purposes
 Source code is written in Python 3.6+ & Keras ver 2.0+
