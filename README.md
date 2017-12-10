@@ -66,26 +66,29 @@ Source code is written in Python 3.6+ & Keras ver 2.0+
 
 ## 5. ETC
 
-### 1) Creating models
+### 0) Creating models
 - Sequential API
 - Model Functional API
 
-### 2) Image processing
+### 1) Image processing
  - Importing images
 
-### 3) Text processing
+### 2) Text processing
  - Text Preprocessing
  - Word embeddings
- 
-### 4) Attention mechanism
 
-### 5) Keras callbacks
+### 3) Keras callbacks
  - ModelCheckpoint
  - EarlyStopping
  - ReduceLROnPlateau
  
-### 6) Using GPUs
+### 4) Using GPUs
  - Make your training process faster with CUDA & CuDNN
+ 
+### 5) Model selection
+ - Cross validation
+ - Grid search
+ - Random search
 
 ## 6. Examples
 
