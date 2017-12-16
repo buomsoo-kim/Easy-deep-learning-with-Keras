@@ -73,19 +73,15 @@ Source code is written in Python 3.6+ & Keras ver 2.0+
 ### 1) Image processing
  - Importing images
 
-### 2) Text processing
- - Text Preprocessing
- - Word embeddings
-
-### 3) Keras callbacks
+### 2) Keras callbacks
  - ModelCheckpoint
  - EarlyStopping
  - ReduceLROnPlateau
  
-### 4) Using GPUs
+### 3) Using GPUs
  - Make your training process faster with CUDA & CuDNN
  
-### 5) Model selection
+### 4) Model selection
  - Cross validation
  - Grid search
  - Random search
@@ -112,3 +108,12 @@ Source code is written in Python 3.6+ & Keras ver 2.0+
 
 ### 4) CNN for sentence classification
   - CNN-static implementation of Kim 2014 paper
+
+## 7. Text Analytics
+Section with emphasis on text data analytics
+
+ ### 1) Text processing
+ 
+ ### 2) Word embedding
+ 
+ ### 3) CNNs for text data
