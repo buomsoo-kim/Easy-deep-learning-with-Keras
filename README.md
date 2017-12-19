@@ -117,3 +117,5 @@ Section with emphasis on text data analytics
  ### 2) Word embedding
  
  ### 3) CNNs for text data
+    - 1-D Convolution for text analysis
+    - CNN for setnence classification (Kim 2014)
