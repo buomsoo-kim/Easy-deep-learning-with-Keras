@@ -120,3 +120,4 @@ Section with emphasis on text data analytics
    - 1-D Convolution for text analysis
    - CNN for setnence classification (Kim 2014)
    - Dynamic CNN for sentence modeling (Kalchbrenner et al 2014)
+   - CNN for text categorization (Johnson and Zhang 2014)
