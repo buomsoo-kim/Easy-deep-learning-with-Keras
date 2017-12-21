@@ -3,7 +3,7 @@
 If you are unfamiliar with data preprocessing, first review **NumPy & Pandas** sections of ```Python for data analysis``` repository materials (https://github.com/buomsoo-kim/Python-for-data-analysis)
 
 Materials in this repository are for educational purposes.
-Source code is written in Python 3.6+ & Keras ver 2.0+ (Using TensorFlow backend; for advanced topics, basic understanding of TensorFlow mechanics is necessary)
+Source code is written in Python 3.6+ & Keras ver 2.0+ (Using TensorFlow backend - For advanced topics, basic understanding of TensorFlow mechanics is necessary)
 
 ## 1. Multilayer Perceptrons
 
