@@ -86,6 +86,9 @@ Source code is written in Python 3.6+ & Keras ver 2.0+ (Using TensorFlow backend
  - Grid search
  - Random search
 
+### 5) Class weighted learning
+ - Learning under class imbalance situations
+ 
 ## 6. Examples
 
 ### 1) Digit Recognition with RNN
