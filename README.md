@@ -89,6 +89,10 @@ Source code is written in Python 3.6+ & Keras ver 2.0+ (Using TensorFlow backend
 ### 5) Class weighted learning
  - Learning under class imbalance situations
  
+### 6) Model weights
+ - Getting model weights
+ - Loading & saving model weights
+ 
 ## 6. Examples
 
 ### 1) Digit Recognition with RNN
