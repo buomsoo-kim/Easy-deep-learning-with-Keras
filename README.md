@@ -115,6 +115,10 @@ Source code is written in Python 3.6+ & Keras ver 2.0+ (Using TensorFlow backend
 
 ### 4) CNN for sentence classification
   - CNN-static implementation of Kim 2014 paper
+  
+### 5) Sentiment Analysis in Korean (using Naver Sentiment Movie Corpus)
+  - Sentiment analysis with Logistic Regression (using sklearn & TF)
+  - Sentiment analysis with RNN
 
 ## 7. Text Analytics
 Section with emphasis on text data analytics
