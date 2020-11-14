@@ -2,7 +2,9 @@
 
 ## Updates
 
-### Nov 14, 2020: The source code is updated and can be run TF2.0 & Google Colaboratory. Please check out the Jupyter Notebook (.ipynb) files! Thank you very much for your patience and support! 
+#### Nov 14, 2020
+
+*The source code is updated and can be run on TF2.0 & Google Colaboratory. Please check out the Jupyter Notebook (.ipynb) files! Thank you very much for your patience and support!*
 
 
 If you are unfamiliar with data preprocessing, first review **NumPy & Pandas** sections of [Python for data analysis](https://github.com/buomsoo-kim/Python-for-data-analysis) materials.
